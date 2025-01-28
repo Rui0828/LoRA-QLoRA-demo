@@ -8,4 +8,4 @@
 * Output: Title
 
 ## Slide
-* [demo_LoRA_QLoRA.pptx](/demo_LoRA_QLoRA.pptx)
+* [demo_LoRA_QLoRA.pptx](demo_LoRA_QLoRA.pptx)
